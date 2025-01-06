@@ -1,4 +1,4 @@
-name: Windows - RustDesk
+name: Windows 10 - RustDesk
 
 on:
   workflow_dispatch:
