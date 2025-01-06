@@ -21,7 +21,7 @@ jobs:
       - name: password change
         run: cmd net users runneradmin 1234567890
         run: cmd net users installer 1234567890
-        run: cmd echo runneradmin,installer password 1234567890
+        echo: runneradmin,installer password 1234567890
      
       - name: Time Counter
         run: python time.py
