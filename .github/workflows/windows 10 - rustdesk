@@ -1,4 +1,4 @@
-name: Windows - RustDesk
+name: Windows 10 - RustDesk - Ashot=main.yml
 
 on:
   workflow_dispatch:
