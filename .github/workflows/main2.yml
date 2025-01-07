@@ -1,4 +1,4 @@
- name: Windows 10 - RustDesk - Ruben =main.yml
+ name: Windows10-RustDesk-Riben=main.yml
 
 on:
   workflow_dispatch:
